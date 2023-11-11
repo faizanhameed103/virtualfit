@@ -42,7 +42,7 @@ function Navbar() {
   return (
     <nav >
       <div className="nav-logo-container">
-        <img src={Logo} alt="" />
+        <img src='' alt="" />// Logo here
       </div>
       <div className="navbar-links-container">
         <Link to="home" 
