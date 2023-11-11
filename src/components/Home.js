@@ -19,7 +19,7 @@ function Home() {
         <p className="primary-text">
         The Best Virtual Fit Solution for You
         </p>
-        <button className="secondary-button" onClick='#'>
+        <button className="secondary-button">
           Order Now <FiArrowRight />{" "}
         </button>
       </div>
